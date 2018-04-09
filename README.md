@@ -1,0 +1,12 @@
+### Configuration
+- **Platform:** node
+- **Framework**: express
+- **Template Engine**: handlebars
+- **CSS Framework**: foundation
+- **CSS Preprocessor**: sass
+- **JavaScript Framework**: 
+- **Build Tool**: none
+- **Unit Testing**: none
+- **Database**: mongodb
+- **Authentication**: 
+- **Deployment**: none
